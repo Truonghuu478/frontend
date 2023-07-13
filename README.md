@@ -1,8 +1,7 @@
-##Bài tập đối tượng
+## Bài tập đối tượng<br>
 
-1. Tạo một đối tượng máy tính với các thuộc tính và phương thức sau:
-
-*name: tên của máy tính (kiểu string)
-*ram: dung lượng RAM của máy tính (kiểu number)
-*storage: dung lượng ổ cứng của máy tính (kiểu number)
-*price: giá của máy tính (kiểu number)
+Tạo một đối tượng máy tính với các thuộc tính và phương thức sau:<br>
+* name: tên của máy tính (kiểu string)<br>
+* ram: dung lượng RAM của máy tính (kiểu number)<br>
+* storage: dung lượng ổ cứng của máy tính (kiểu number)<br>
+* price: giá của máy tính (kiểu number)<br>
