@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="container">
+        <h1 class="h1">Bài tập quản lý máy tính</h1>
+        <form class="my-5">
+            <div class="mb-3">
+                <label for="computerName" class="form-label">Tên máy tính</label>
+                <input type="text" class="form-control" id="computerName" placeholder="Nhập tên máy tính">
+            </div>
+            <div class="mb-3">
+                <label for="computerRam" class="form-label">Dung lượng RAM</label>
+                <input type="number" class="form-control" id="computerRam" placeholder="Nhập dung lượng RAM">
+            </div>
+            <div class="mb-3">
+                <label for="computerStorage" class="form-label">Dung lượng ổ cứng</label>
+                <input type="number" class="form-control" id="computerStorage" placeholder="Nhập dung lượng ổ cứng">
+            </div>
+            <div class="mb-3">
+                <label for="computerPrice" class="form-label">Giá máy tính</label>
+                <input type="number" class="form-control" id="computerPrice" placeholder="Nhập giá máy tính">
+            </div>
+            <button type="button" class="btn btn-primary" onclick="createComputer()">Tạo máy tính</button>
+        </form>
+
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Tên máy tính</th>
+                    <th scope="col">RAM</th>
+                    <th scope="col">Ổ cứng</th>
+                    <th scope="col">Giá</th>
+                </tr>
+            </thead>
+            <tbody id="computerList">
+            </tbody>
+        </table>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz"
+        crossorigin="anonymous"></script>
+
+</body>
+
+</html>
