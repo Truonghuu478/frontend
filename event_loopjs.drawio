@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" modified="2023-07-27T10:05:06.085Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="_QbrfPTfLFTxYLCD53hV" version="21.5.2" type="github">
+  <diagram name="Trang-1" id="MsmzmXB-yLF5wdtmHUdS">
+    <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Pe2OBHDxpPy1Rntwo5SU-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="40" width="1250" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe2OBHDxpPy1Rntwo5SU-2" value="JS runtime" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="600" y="60" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe2OBHDxpPy1Rntwo5SU-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="150" width="530" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe2OBHDxpPy1Rntwo5SU-4" value="JS engine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe2OBHDxpPy1Rntwo5SU-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="150" width="540" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe2OBHDxpPy1Rntwo5SU-6" value="Web APIs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe2OBHDxpPy1Rntwo5SU-7" value="HEAP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe2OBHDxpPy1Rntwo5SU-8" value="CALL STACK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe2OBHDxpPy1Rntwo5SU-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="450" width="530" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe2OBHDxpPy1Rntwo5SU-10" value="CALLBACK QUEUE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="945" y="450" width="190" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
