@@ -1,0 +1,15 @@
+
+
+// 1. Cách Javascript hoạt động
+// 2. cây DOM trong js
+// 3. var, let, const, cơ chế hosting 
+// 4. this, bind, function scope
+// 5. class, prototype, OOP 
+// 6. Promise 
+// 7. callback function
+// 8. closure 
+// 9. Cách hoạt động của 1 user gửi yêu cầu lên backend
+// 10. IIFE
+// 11. Tham chiếu, tham trị
+// 12. high order function
+// 13. Transfer js es5 to es6 
